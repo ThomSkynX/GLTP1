@@ -1,2 +1,2 @@
-V1 = "Hello World"
-echo $V1
+echo "Hello World";
+
